@@ -51,9 +51,6 @@ It is based on the structure of **J.P. Morgan Quantitative Research Virtual Expe
 - **Total Storage Value = Intrinsic + Extrinsic**
 - Mirrors real natural-gas physical storage economics
 
-### ✔ Date-Based Price Estimator  
-Simple utility function:
-```python
 
 
 
